@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/backend-smarthome/obj
+/backend-smarthome/bin/Debug/net7.0
+/.vs/backend-smarthome/v17/.suo
+/.vs/backend-smarthome/DesignTimeBuild/.dtbcache.v2
+/.vs/backend-smarthome/v17/.futdcache.v2
+/.vs/ProjectEvaluation/backend-smarthome.metadata.v5.2
+/.vs/ProjectEvaluation/backend-smarthome.projects.v5.2
+/backend-smarthome/appsetting.development.json
+/EHome.Keycloak.Client/obj
+/backend-smarthome/appsettings.Development.json
+/EHome.Keycloak.Client/bin/Debug/net7.0
+/backend-smarthome/appsettings.Development.json
